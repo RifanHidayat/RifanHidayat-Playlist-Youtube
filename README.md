@@ -7,7 +7,7 @@
 <h1><b>Demo Aplikasi</b></h1>
 
 
-[![Playlist-Youtube](https://img.youtube.com/vi/YVJSvsFhU7E)](https://www.youtube.com/watch?v=YVJSvsFhU7E)
+[![Playlist-Youtube](https://img.youtube.com/vi/YVJSvsFhU7E/0.jpg)](https://www.youtube.com/watch?v=YVJSvsFhU7E)
 
 
 
