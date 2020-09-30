@@ -6,7 +6,7 @@
 
 <h1><b>Demo Aplikasi</b></h1>
 
-[<img src="https://www.youtube.com/watch?v=YVJSvsFhU7E&feature=youtu.be" width="50%">](https://youtu.be/YVJSvsFhU7E&feature=youtu.be)
+(https://www.youtube.com/watch?v=ek1j272iAmc)
 
 
 
