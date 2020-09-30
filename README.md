@@ -6,7 +6,7 @@
 
 <h1><b>Demo Aplikasi</b></h1>
 
-
+<p>klik gambar ini untuk melihat demo aolikasi</p>
 [![Playlist-Youtube](https://img.youtube.com/vi/YVJSvsFhU7E/0.jpg)](https://www.youtube.com/watch?v=YVJSvsFhU7E)
 
 
